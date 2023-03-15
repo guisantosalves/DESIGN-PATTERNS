@@ -1,0 +1,4 @@
+{
+    "java.checkstyle.configuration": "${workspaceFolder}\\CheckStyle.xml",
+    "java.checkstyle.version": "10.8.1"
+}
